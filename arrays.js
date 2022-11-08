@@ -68,6 +68,8 @@ console.log (numbers);
 ABCD
 123
 
+ABCD
+
 
 
 
